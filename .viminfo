@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1656174777,,"wq"
+|2,0,1656179807,,"wq"
 
 # Search String History (newest to oldest):
 ? \<format\>
@@ -62,26 +62,51 @@
 |3,0,36,0,1,0,1656174619,"["
 
 # File marks:
-'0  10  0  ~/.bashrc
-|4,48,10,0,1656174777,"~/.bashrc"
-'1  68  14  ~/.config/starship.toml
-|4,49,68,14,1656174639,"~/.config/starship.toml"
+'0  12  16  ~/.vimrc
+|4,48,12,16,1656179807,"~/.vimrc"
+'1  10  0  ~/.bashrc
+|4,49,10,0,1656174777,"~/.bashrc"
+'2  68  14  ~/.config/starship.toml
+|4,50,68,14,1656174639,"~/.config/starship.toml"
 
 # Jumplist (newest first):
+-'  12  16  ~/.vimrc
+|4,39,12,16,1656179807,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1656179803,"~/.vimrc"
 -'  10  0  ~/.bashrc
 |4,39,10,0,1656174777,"~/.bashrc"
+-'  10  0  ~/.bashrc
+|4,39,10,0,1656174777,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1656174772,"~/.bashrc"
 -'  1  0  ~/.bashrc
 |4,39,1,0,1656174772,"~/.bashrc"
 -'  68  14  ~/.config/starship.toml
 |4,39,68,14,1656174639,"~/.config/starship.toml"
 -'  68  14  ~/.config/starship.toml
 |4,39,68,14,1656174639,"~/.config/starship.toml"
+-'  68  14  ~/.config/starship.toml
+|4,39,68,14,1656174639,"~/.config/starship.toml"
+-'  68  14  ~/.config/starship.toml
+|4,39,68,14,1656174639,"~/.config/starship.toml"
+-'  1  0  ~/.config/starship.toml
+|4,39,1,0,1656174626,"~/.config/starship.toml"
+-'  1  0  ~/.config/starship.toml
+|4,39,1,0,1656174626,"~/.config/starship.toml"
 -'  1  0  ~/.config/starship.toml
 |4,39,1,0,1656174626,"~/.config/starship.toml"
 -'  1  0  ~/.config/starship.toml
 |4,39,1,0,1656174626,"~/.config/starship.toml"
 
 # History of marks within files (newest to oldest):
+
+> ~/.vimrc
+	*	1656179806	0
+	"	12	16
+	^	12	17
+	.	12	16
+	+	12	16
 
 > ~/.bashrc
 	*	1656174776	0
